@@ -14,15 +14,17 @@
 
 -   gsutil list
 
-#### Fuente
-
--   [Comando Listar Buckets](https://cloud.google.com/storage/docs/listing-buckets#gsutil)
-
 -   gcloud alpha storage ls
 
+
 #### Fuente
 
--   [Comando Listar Buckets](https://cloud.google.com/storage/docs/listing-buckets#gcloud)
+-   [Comando Listar Buckets primer comando](https://cloud.google.com/storage/docs/listing-buckets#gsutil)
+
+
+#### Fuente
+
+-   [Comando Listar Buckets segundo comando](https://cloud.google.com/storage/docs/listing-buckets#gcloud)
 
 
 
