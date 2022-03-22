@@ -6,7 +6,7 @@
 
 -   gcloud compute instances list
 
-#### Fuentes
+#### Fuente
 
 -   [Comando Listar Compute Engine](https://cloud.google.com/compute/docs/gcloud-compute/common-commands?hl=es-419#listing_vms)
 
@@ -14,9 +14,13 @@
 
 -   gsutil list
 
+#### Fuente
+
 -   [Comando Listar Buckets](https://cloud.google.com/storage/docs/listing-buckets#gsutil)
 
 -   gcloud alpha storage ls
+
+#### Fuente
 
 -   [Comando Listar Buckets](https://cloud.google.com/storage/docs/listing-buckets#gcloud)
 
